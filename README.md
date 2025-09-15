@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/22328824/README.md)# Inkball 🎮
+ Inkball 🎮
 
 Inkball is a modern recreation of the classic puzzle game where players guide balls into goals by drawing barriers and controlling their movement. This project has been implemented in **Java**, with test files (`AppTest.class`, `BallTest.class`) included to ensure game reliability.
 
